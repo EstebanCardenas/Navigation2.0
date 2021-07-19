@@ -1,4 +1,4 @@
-# navigator2
+# navigator2.0
 
 A new Flutter project.
 
